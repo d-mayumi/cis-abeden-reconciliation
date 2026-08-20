@@ -1,0 +1,10 @@
+{
+  "eventVersion": "0",
+  "type": "report_created",
+  "createdAt": "2026-08-18T00:00:48+09:00",
+  "project": "cis-abeden-reconciliation",
+  "artifact": "planning/daily-report-2026-08-17.md",
+  "title": "2026年8月17日 作業日報",
+  "summary": "CIS・あべでん料金突合システムで実施した確認、コマンド実行、記録作成の事実を記載。",
+  "contentPolicy": "facts_only"
+}

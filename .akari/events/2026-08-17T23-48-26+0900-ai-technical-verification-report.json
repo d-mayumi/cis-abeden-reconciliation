@@ -1,0 +1,17 @@
+{
+  "eventVersion": "0",
+  "type": "report_created",
+  "createdAt": "2026-08-17T23:48:26+09:00",
+  "project": "cis-abeden-reconciliation",
+  "artifact": "planning/ai-technical-verification-report-2026-08-17.md",
+  "title": "CIS・あべでん料金突合システム AI技術検証報告",
+  "outcome": "conditional_poc_pass_production_hold",
+  "summary": "帳票から固定Sheetsへ保存するAI/OCR連携フローは検証済み。通常料金突合との自動接続、実帳票の認識精度、安全な登録運用は追加実装・検証が必要。",
+  "verification": {
+    "tests": "39 passed in 8 files",
+    "typecheck": "passed",
+    "build": "passed with bundle-size warning",
+    "dependencyAudit": "3 known vulnerabilities: 1 high, 2 moderate",
+    "liveOcrAccuracy": "not evaluated"
+  }
+}
